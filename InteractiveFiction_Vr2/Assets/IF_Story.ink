@@ -73,6 +73,9 @@ Loriel shrieks loudly and grabs the closest item within reach. The ceramic soap 
 * * * * * [Nod] 
 
 			She nods at the broken mirror piece.
+--> END
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ===startAgain===
 NEW YORK, Present Day : Tuesday January 1st, 7:25 AM
@@ -124,6 +127,9 @@ Loriel shrieks loudly and grabs the closest item within reach. The ceramic soap 
 * * * * * [Nod] 
 
 			She nods at the broken mirror piece.
+--> END
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ===startAgain2===
 NEW YORK, Present Day : Tuesday January 1st, 7:25 AM
